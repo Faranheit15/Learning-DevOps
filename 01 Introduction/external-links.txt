@@ -1,0 +1,9 @@
+
+003 Atlassian-Survey-2020-DevOps-Trends
+https://www.atlassian.com/whitepapers/devops-survey-2020
+
+008 DecodingDevOpsCourseMaterial
+https://github.com/imnowdevops/ddc-material/archive/refs/heads/master.zip
+
+008 Course-Material-Github-Link
+https://github.com/imnowdevops/ddc-material.git
